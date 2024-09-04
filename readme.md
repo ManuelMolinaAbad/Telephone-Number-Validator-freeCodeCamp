@@ -5,11 +5,17 @@ This activity is focused on creating a Telephone Number Validator project from s
 
 ## US phone numbers format
 > 1 555-555-5555
+
 > 1 (555) 555-5555
+
 > 1(555)555-5555
+
 > 1 555 555 5555
+
 > 5555555555
+
 > 555-555-5555
+
 > (555)555-5555
 
 ## Requirements to be done in order to pass the automated tests
